@@ -7,4 +7,4 @@ I'm currently the Head of Engineering at White Hat Gaming. When I'm not managing
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=morthor&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morthor&theme=dark&layout=compact&hide=cMake,c%2B%2B)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morthor&theme=dark&layout=compact&hide=cMake,c%2B%2B)
